@@ -1,1 +1,4 @@
-
+## Roleplay and perspective
+/ACT AS [role] [situation] - Claude responds as a doctor,lawyer,coach,teacher,etc.(Always verify professional advice).
+/PRACTICE QUESTIONS ON [topic] - open ended questions to test deeper understanding.
+/CHEAT SHEET FOR [topic] - Dense one pager of the most important facts.
